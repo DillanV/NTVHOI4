@@ -1,0 +1,22 @@
+state={
+	id=745
+	name="STATE_745"
+	manpower = 1047156
+	
+	state_category = rural
+
+	history={
+		owner = TUR
+		buildings = {
+			infrastructure = 3
+			air_base = 2
+		}
+		add_core_of = TUR
+	}
+	
+	provinces={
+		1549 1578 1606 1634 6883 
+	}
+
+
+}

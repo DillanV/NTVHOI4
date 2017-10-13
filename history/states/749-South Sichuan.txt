@@ -1,0 +1,32 @@
+state={
+	id=749
+	name="STATE_749"
+	manpower = 9994500
+	
+	state_category = town
+	
+	resources={
+	
+		oil=3
+		
+	}
+
+	history={
+		owner = YUN
+		add_core_of = YUN
+		add_core_of = CHI
+		victory_points = {
+			7965 3 
+		}
+		buildings = {
+			infrastructure = 3
+			arms_factory = 1
+			industrial_complex = 3
+		}
+		
+	}
+	provinces={
+		1999 2067 4999 7294 10726 10841 
+	}
+	buildings_max_level_factor=1.000
+}

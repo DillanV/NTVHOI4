@@ -1,0 +1,26 @@
+state={
+	id=746
+	name="STATE_746"
+	
+	
+	history={
+		owner = HUN
+		victory_points = {
+			11663 10.0 
+		}
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 1
+
+		}
+		add_core_of = HUN
+
+	}
+
+	provinces={
+		9660 
+	}
+	manpower=1750000
+	state_category=city
+	buildings_max_level_factor=1.000
+}

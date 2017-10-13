@@ -1,0 +1,39 @@
+state={
+	id=748
+	name="STATE_748"
+	manpower = 294500
+	
+	state_category = town
+	
+	resources={
+	
+		tungsten=1
+		steel=13
+		
+	}
+
+	provinces={
+		1114 1172 1196 1319 1653 4501 7446 7606 12282 
+	}
+	manpower=0
+	
+	history={
+		owner = YUN
+		add_core_of = YUN
+		add_core_of = CHI
+		victory_points = {
+			1319 10 
+		}
+		buildings = {
+			infrastructure = 3
+			arms_factory = 1
+			industrial_complex = 3
+		}
+		
+	}
+	
+	
+	
+	
+	buildings_max_level_factor=1.000
+}
